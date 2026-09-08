@@ -78,3 +78,9 @@ The dashboard makes it easier to monitor business performance, identify sales pa
 This project demonstrates how raw e-commerce sales data can be transformed into meaningful business insights using Google Sheets.
 
 The project strengthened my skills in data cleaning, analysis, visualization, KPI tracking, dashboard development, and communicating data-driven findings.
+
+## Dashboard
+
+![E-Commerce Sales Dashboard](dashboard-preview.png)
+
+[View Interactive Dashboard](https://docs.google.com/spreadsheets/d/1KS2oCRabmd4fy1iNVzkSwOmLX9lplrSa/edit?usp=drivesdk&ouid=103814527420975551183&rtpof=true&sd=true)
