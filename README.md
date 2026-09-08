@@ -73,7 +73,7 @@ The dashboard makes it easier to monitor business performance, identify sales pa
 * Maintain multiple payment options to accommodate customer preferences.
 * Track monthly revenue trends to improve sales planning.
 
-## Conclusion
+## Conclusion 
 
 This project demonstrates how raw e-commerce sales data can be transformed into meaningful business insights using Google Sheets.
 
